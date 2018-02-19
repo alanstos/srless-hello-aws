@@ -1,0 +1,1 @@
+serverless config credentials --provider aws --key [X] --secret [98gxT1muLRZIJ/45jlQhc4HIOekUPB8FQeT6bTPYq_]
